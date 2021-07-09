@@ -1,8 +1,8 @@
 # Frontend
 •	Vue.js | JavaScript
 
-# Distribuição: https://pot-frontend.herokuapp.com/
 # Github: https://github.com/MeUau/POT-FrontEnd
+Distribuição: https://vigorous-beaver-c01e72.netlify.app/
 
 # POT - config.js
 const POT_URL = "https://pot-frontend.herokuapp.com";
