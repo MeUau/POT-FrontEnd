@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60e76d1adbf78fc19fd1c521"
+  },
+  "active": true,
+  "clausula": "Limpeza",
+  "descricao": "Limpeza de terreno de acordo com a legislação em vigor e respetivas datas, sem qualquer custo para o proprietário. Em caso de incumprimento a coima é da responsabilidade do parceiro."
+},{
+  "_id": {
+    "$oid": "60e76e6cdbf78fc19fd1c523"
+  },
+  "active": true,
+  "clausula": "Seguros",
+  "descricao": "Deverá ser feito um seguro de incendio. Em caso de se aplicar alguma cláusula de distribuição de lucros deverá ser feito também um seguro de colheita.\n"
+},{
+  "_id": {
+    "$oid": "60e76eebdbf78fc19fd1c524"
+  },
+  "active": true,
+  "clausula": "Distribuição equitativa",
+  "descricao": "Os lucros de exploração da propriedade deverão ser distribuídos equitativamente entre o proprietário e o parceiro.\n"
+},{
+  "_id": {
+    "$oid": "60e76ef0dbf78fc19fd1c525"
+  },
+  "active": true,
+  "clausula": "Cálculo do lucro",
+  "descricao": "O Lucro é calculado pela seguinte fórmula: Lucro = Resultado da exploração – (Despesas + Seguros)\n"
+}]

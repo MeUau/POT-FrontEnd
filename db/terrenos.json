@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "5de04911f1a7340017664c69"
+  },
+  "name": "Estufa",
+  "area": 350,
+  "cultura": "Estufa",
+  "descricao": "Estufa velha para recuperar",
+  "urlPhoto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.LZB0OzK0tVylyNkLts1OtgHaHa%26pid%3DApi&f=1",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "60e6cbd9918b4d15cc20ab3b"
+  },
+  "name": "Olival",
+  "area": 2001,
+  "cultura": "Olival",
+  "descricao": "Olival centenário",
+  "urlPhoto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2lpYKCm6g5jMFAqTwB6CFwHaE6%26pid%3DApi&f=1",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "60e6cbdf918b4d15cc20ab3c"
+  },
+  "name": "Milharal",
+  "area": 15000,
+  "cultura": "Cereal",
+  "descricao": "Milharal com monitorização remota",
+  "urlPhoto": "https://www.agroportal.pt/wp-content/uploads/Milho_EstaC3A7C3A3o-AntC3B3nio-Teixeira-Coruche.jpg",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "60e6cbe3918b4d15cc20ab3d"
+  },
+  "name": "Pomar",
+  "area": 1700,
+  "cultura": "Pomar",
+  "descricao": "Pomar de citrinos",
+  "urlPhoto": "https://www.quintarainhasantamafalda.pt/wp-content/gallery/orchard/2015_11_13-020.jpg",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "60e6cbeb918b4d15cc20ab3e"
+  },
+  "name": "Floresta",
+  "area": 20000,
+  "cultura": "Autoctone",
+  "descricao": "Floresta Autóctone",
+  "urlPhoto": "https://www.baladi.pt/wp-content/uploads/2020/03/projeto-8-1-4-paradanca-3.jpg",
+  "__v": 0,
+  "active": true
+},{
+  "_id": {
+    "$oid": "60e6cbf1918b4d15cc20ab3f"
+  },
+  "name": "Baldio",
+  "area": 16500,
+  "cultura": "Autoctone",
+  "descricao": "Baldio para cultival Floresta Autóctone",
+  "urlPhoto": "https://umaarvorepelafloresta.quercus.pt/wp-content/uploads/2015/02/Baldio-de-Rio-Caldo_retocada3.jpg",
+  "__v": 0,
+  "active": true
+}]

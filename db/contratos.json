@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "60e7729eeeb1b600045a4686"
+  },
+  "clausulas": [
+    "60e76d1adbf78fc19fd1c521",
+    "60e76e6cdbf78fc19fd1c523",
+    "60e76eebdbf78fc19fd1c524",
+    "60e76ef0dbf78fc19fd1c525"
+  ],
+  "active": true,
+  "name": "Contrato Completo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e77a5da95d6b0004422f51"
+  },
+  "clausulas": [
+    "60e76d1adbf78fc19fd1c521",
+    "60e76eebdbf78fc19fd1c524",
+    "60e76ef0dbf78fc19fd1c525"
+  ],
+  "active": true,
+  "name": "Contrato Simples",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e77a76a95d6b0004422f5a"
+  },
+  "clausulas": [
+    "60e76d1adbf78fc19fd1c521"
+  ],
+  "active": true,
+  "name": "Contrato Base",
+  "__v": 0
+}]

@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "60e5b25d75137300048a6e2c"
+  },
+  "location": {
+    "freguesia": "a",
+    "concelho": "a",
+    "distrito": "a"
+  },
+  "level": {
+    "area": 0
+  },
+  "type": "admin",
+  "active": true,
+  "descricao": "aa",
+  "name": "a",
+  "auth": {
+    "username": "a",
+    "password": "$2a$04$QA8IyfA1Y5fjWQtl0CX.s.pzhYMKGZTI4MOyVNt1uLRFHpgKF8O52",
+    "public_key": "yxe72s0cq860e5b25d75137300048a6e2c",
+    "private_key": "3tnywg8rpen60e5b25d75137300048a6e2c"
+  },
+  "registration_date": {
+    "$date": "2021-07-09T13:55:41.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5b2e275137300048a6e33"
+  },
+  "location": {
+    "freguesia": "q",
+    "concelho": "q",
+    "distrito": "q"
+  },
+  "level": {
+    "area": 0
+  },
+  "type": "user",
+  "active": true,
+  "descricao": "q",
+  "name": "q",
+  "auth": {
+    "username": "q",
+    "password": "$2a$04$P28pwyxOB91dVpbnSokVoOoyduOB7rGSxZQxoGQ2LJqivYwbHUTmK",
+    "public_key": "ezdzwg8gnw60e5b2e275137300048a6e33",
+    "private_key": "32lus1usfnh60e5b2e275137300048a6e33"
+  },
+  "registration_date": {
+    "$date": "2021-07-07T13:57:54.587Z"
+  },
+  "__v": 0
+}]
